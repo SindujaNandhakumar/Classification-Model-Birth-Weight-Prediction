@@ -21,11 +21,15 @@ Implemented different models including KNN, Random Forest, Decision Tree, Logist
 **Data**:Historical Maternal health records ,birthweight, and prenatal care details.
 
 ## Analysis Outline
-Part 1: Exploratory Data Analysis
-Part 2: Feature Engineering
-Part 3: Model Building
-Part 4: Model Evaluation
-Part 5: Insights and Recommendations
+**Part 1**: Exploratory Data Analysis
+
+**Part 2**: Feature Engineering
+
+**Part 3**: Model Building
+
+**Part 4**: Model Evaluation
+
+**Part 5**: Insights and Recommendations
 
 ## Conclusion
 The Random Forest Classifier is the best model for predicting low birthweight, with a balanced accuracy of 70%. This model helps identify potential risks and provides insights into preventative measures, supporting public health efforts to ensure healthier pregnancies and newborns.
